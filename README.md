@@ -10,7 +10,7 @@
 >
 ><a href="https://scholar.google.com/citations?hl=zh-CN&user=tDjRkvcAAAAJ"> Zhen Yang<sup>2</sup></a>  &emsp;  <a href="https://openreview.net/profile?id=~Chaoqiang_Ye1">Chaoqiang Ye<sup>2</sup></a>  &emsp;  <a href="https://yanweifu.github.io/">Yanwei Fu<sup>1</sup></a>  &emsp;&ensp;   <a href="">Michael Bi Mi<sup>2</sup></a> &emsp;&ensp;  <a href="https://www.robots.ox.ac.uk/~lz/">Li Zhang<sup>1</sup></a> 
 >
-><center><font size="3"><sup>1</sup>School of Data Science, Fudan University	</center>
+><center><font size="3"><sup>1</sup>School of Data Science, Fudan University	</center> &emsp;
 ><center><font size="3"><sup>2</sup>Huawei Noah's Ark Lab		</center>
 
 <img src="C:\Users\Ivan\Desktop\cvpr\once3dlanes_example.png" style="zoom:80%;" />
