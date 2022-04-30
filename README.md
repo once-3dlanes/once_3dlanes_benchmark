@@ -8,7 +8,7 @@
 >
 ><a href="https://fudan-zvg.github.io/"> Fan Yan<sup>1</sup></a>   &emsp;&emsp;    <a href="https://fudan-zvg.github.io/">Ming Nie<sup>1</sup></a>   &emsp;&emsp;         <a href="https://scholar.google.com/citations?hl=zh-CN&user=_L4ZS9MAAAAJ">Xinyue Cai<sup>2</sup></a> &emsp;&emsp;  <a href="https://scholar.google.com/citations?hl=zh-CN&user=OEPMQEMAAAAJ"> Jianhua Han<sup>2</sup></a>   &emsp;&emsp;  <a href="https://xuhangcn.github.io/">Hang Xu<sup>2</sup></a>
 >
-><a href="https://scholar.google.com/citations?hl=zh-CN&user=tDjRkvcAAAAJ"> Zhen Yang<sup>2</sup></a>  &emsp;&emsp;  <a href="https://openreview.net/profile?id=~Chaoqiang_Ye1">Chaoqiang Ye<sup>2</sup></a>  &emsp;&emsp;  <a href="https://yanweifu.github.io/">Yanwei Fu<sup>1</sup></a>  &emsp;&emsp;   <a href="">Michael Bi Mi<sup>2</sup></a> &emsp;&emsp;  <a href="https://www.robots.ox.ac.uk/~lz/">Li Zhang <sup>1</sup></a> 
+><a href="https://scholar.google.com/citations?hl=zh-CN&user=tDjRkvcAAAAJ"> Zhen Yang<sup>2</sup></a>  &emsp;  <a href="https://openreview.net/profile?id=~Chaoqiang_Ye1">Chaoqiang Ye<sup>2</sup></a>  &emsp;  <a href="https://yanweifu.github.io/">Yanwei Fu<sup>1</sup></a>  &emsp;   <a href="">Michael Bi Mi<sup>2</sup></a> &emsp;  <a href="https://www.robots.ox.ac.uk/~lz/">Li Zhang <sup>1</sup></a> 
 >
 ><center><font size="3"><sup>1</sup>School of Data Science, Fudan University	</center>
 ><center><font size="3"><sup>2</sup>Huawei Noah's Ark Lab		</center>
