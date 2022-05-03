@@ -36,7 +36,7 @@ You can refer to [here](https://once-3dlanes.github.io/3dlanes/) to get more det
 git clone https://github.com/once-3dlanes/once_3dlanes_benchmark.git
 conda create -n once3dlanes python=3.6.9
 conda activate once3dlanes
-pip install -r requirements.txt
+sh requirements.sh
 ```
 
 ## Data Preparation
