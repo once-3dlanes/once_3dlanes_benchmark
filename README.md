@@ -1,6 +1,6 @@
 # ONCE-3DLanes
 
-[<span style='font-size: 20px'>Project Page</span>](https://once-3dlanes.github.io/) **|** [<span style='font-size: 20px'>Paper</span>]() **|** [<span style='font-size: 20px'>Data</span>](https://drive.google.com/file/d/1-blzGV6Q0R-6aa0dsRHjR9kKiA5o5bqv/view)
+[<span style='font-size: 20px'>Project Page</span>](https://once-3dlanes.github.io/) **|** [<span style='font-size: 20px'>Paper</span>](https://arxiv.org/pdf/2205.00301.pdf) **|** [<span style='font-size: 20px'>Data</span>](https://drive.google.com/file/d/1-blzGV6Q0R-6aa0dsRHjR9kKiA5o5bqv/view)
 
 
 
