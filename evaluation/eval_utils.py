@@ -57,8 +57,8 @@ class LaneEval:
         gt_files_list = list()
         pred_files_list = list()
         for segment in os.listdir(gt_root_path):
-            gt_segment_path = os.path.join(gt_root_path, segment)
-            pred_segment_path = os.path.join(pred_root_path, segment)
+            gt_segment_path = os.path.join(gt_root_path, segment, 'cam01')
+            pred_segment_path = os.path.join(pred_root_path, segment, 'cam01')
             gt_files_list.extend([os.path.join(gt_segment_path, filename) for filename in
                                   os.listdir(gt_segment_path) if filename.endswith(".json")])
             pred_files_list.extend([os.path.join(pred_segment_path, filename) for filename in
