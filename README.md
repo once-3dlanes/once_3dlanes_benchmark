@@ -49,15 +49,18 @@ pip install -r requirements.txt
 {
   "lanes":[
     # One lane 
-    [ 
-      # The [x, y, z] coordinates of key points in the lane are listed as follows.
-      [-2.475, 1.871, 31.082],
-      [-2.547, 1.854, 28.394],        
-      ...
-    ]
+    {
+      "points": [ 
+        # The [x, y, z] coordinates of key points in the lane are listed as follows.
+        [-2.475, 1.871, 31.082],
+        [-2.547, 1.854, 28.394],        
+        ...
+      ],
+      "score": 1,  #The value doesn't affect evaluation.
+    },
     # Other lanes
     ...
-    ]
+  ]
 }
 ```
 
